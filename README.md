@@ -12,7 +12,7 @@
 
 ## To run the project locally
 
-* clone this Repository by `git clone https://github.com/S-codes14/SnApp-Api.git`.
+* clone this Repository by `git clone https://github.com/S-codes14/SnApp-api.git`.
 * clone client Repository by `git clone https://github.com/S-codes14/SnApp.git`.
 * create a .env file and add these
     - `MONGO_URI=mongodb+srv://Sibongumusa:Southgate1@cluster0.jgqxi.mongodb.net/myFirstDatabase?retryWrites=true&w=majority`

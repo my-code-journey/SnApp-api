@@ -20,7 +20,7 @@
     - `CLIENT_URL=http://localhost:3000`
 * Inside the client create a .env file and add
     - `REACT_APP_API_URL=http://localhost:8080`
-* Change the directory to /server in the terminal and run:
+* change to the server ,in the terminal and run:
     - `npm install`
     - `node app.js`
 * Change to the client in the terminal and run:
